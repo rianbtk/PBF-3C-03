@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3C/3D |
+| NIM | **1941723007** |
+| Nama Lengkap | **Agus Salim Hadjrianto** |
+| Kelas | TI-3D |
 
 
 ## Struktur Folder
@@ -33,4 +33,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda xyz)***
+***(Agus Salim Hadjrianto)***
