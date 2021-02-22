@@ -2,7 +2,7 @@
 
 Listing 1
 
-![Listing1](img/listing1.png)
+![](img/listing1.png)
 
 [link_Listing1-1](../../src/01_pengantar/modul1/src/listing1-1.js)
 
