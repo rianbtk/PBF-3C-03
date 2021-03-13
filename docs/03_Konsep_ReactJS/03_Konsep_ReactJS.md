@@ -1,5 +1,11 @@
 # 03 - Konsep ReactJS
 
+## Tujuan Pembelajaran
+
+1. Mahasiswa paham dengan konsep ReactJS dan membuat project menggunakan ReactJS 
+
+
+
 *** Instalasi ***
 
 ![](img/1.png)
