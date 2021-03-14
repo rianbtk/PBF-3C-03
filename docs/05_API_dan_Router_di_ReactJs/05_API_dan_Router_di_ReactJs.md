@@ -51,3 +51,30 @@ Belajar React Router
 
 ## TUGAS
 
+Home
+
+![](img/T1.png)
+
+![](img/T1.1.png)
+
+Beranda
+
+![](img/T2.png)
+
+Berita
+
+![](img/T3.png)
+
+
+Tentang
+
+![](img/T4.png)
+
+Codelabs
+
+![](img/T5.png)
+
+![](img/T5.1.png)
+
+
+![](img/T5.2.png)
