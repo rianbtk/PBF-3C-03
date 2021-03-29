@@ -68,20 +68,48 @@
 
     1. Jelaskan maksud sintaks this.props.dispatch pada praktikum langkah 16 sebelumnya!
 
+        Jawab :
+
+            Fungsi dari sintacks di atas ialah untuk memanggil fungsi dari index ke app.js pada fungsi reducer yang telah di inisialisasi dan di case untuk bisa di panggil pada increment dan descrement .
+
     2. Jelaskan maksud istilah yang ada dalam Redux berikut ini:
     Actions
 
         a. Reducers
+        
+            Ialah penggunaan fungsi di mana digunakan untuk menangani case yang banyak dan di persingkat atau di persimple dengan menggunkan fungsi redux pada reactJs
 
         b. Action creators
 
+            Digunakan untuk berinteraksi pada fungsi counter dimana jika di klik maka akan ada action tambah atau kurang
+
         c. Middleware
+        
+            Digunakan untuk menghubungkan koneksi dari fungsi
 
         d. Pure functions
 
+            Digunakan untuk membangun suatu fungsi
+
         f. Immutability
+
+            Tipe variabel concrit atau tidak bisa di ubah contohnya String dan Number
 
     3. Jelaskan maksud sintaks export default connect(mapStateToProps)(Counter) pada praktikum langkah 9 sebelumnya!
 
+        Jawab :
+
+            Digunakann untuk mengembalikan fungsi ke default counter dari mapStateProps
+
     4. Carilah sebuah studi kasus aplikasi yang cukup kompleks di GitHub yang memanfaatkan Redux! Kemudian screenshot bagian kode program mana yang merupakan proses Redux dan jelaskan prosesnya! (cantumkan link repository GitHub yang Anda temukan)
+
+Judul : React Shopping Cart
+
+'Tampilan'![](img/Tam1.png)
+
+![](img/count.png)
+
+![](img/h.png)
+
+Link : https://github.com/sivadass/react-shopping-cart
 
