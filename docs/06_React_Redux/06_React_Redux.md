@@ -103,7 +103,7 @@
 
     4. Carilah sebuah studi kasus aplikasi yang cukup kompleks di GitHub yang memanfaatkan Redux! Kemudian screenshot bagian kode program mana yang merupakan proses Redux dan jelaskan prosesnya! (cantumkan link repository GitHub yang Anda temukan)
 
-Judul : React Shopping Cart
+Judul : react-native-redux-crypto-tracker
 
 'Tampilan'![](img/Tam1.png)
 
@@ -111,5 +111,5 @@ Judul : React Shopping Cart
 
 ![](img/h.png)
 
-Link : https://github.com/sivadass/react-shopping-cart
+Link : https://github.com/girl4tech/react-native-redux-crypto-tracker
 
