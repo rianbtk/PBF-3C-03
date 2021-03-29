@@ -107,7 +107,7 @@ Judul : React Shopping Cart
 
 'Tampilan'![](img/Tam1.png)
 
-![](img/count.png)
+![](img/coun.png)
 
 ![](img/h.png)
 
