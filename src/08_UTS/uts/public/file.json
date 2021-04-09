@@ -1,0 +1,22 @@
+{
+    "short_name": "Data React",
+    "name": "Data app, css, img",
+    "data": [
+      {
+        "src": "assets/img/blog-divider.png",
+        "sizes": "900px",
+        "type": "image/bg"
+      },
+      {
+        "src": "assets/img/section-shadow.png",
+        "sizes": "900px",
+        "type": "image/bg"
+      },
+      {
+        "src": "assets/img/nav-active.png",
+        "sizes": "900px",
+        "type": "image/bg"
+      }
+    ]
+  }
+  
