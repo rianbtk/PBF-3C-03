@@ -1,5 +1,4 @@
 import React from 'react';
-// import logo from './logo.svg';
 import './App.css';
 import Header from './component/Header';
 import Footer from './component/Footer';
@@ -9,11 +8,7 @@ import Profile from './pages/Profile';
 import Contact from './pages/Contact';
 import Lainya from './pages/Lainya';
 import Api from './pages/Api';
-// import Search from './pages/Search/index';
-// import App from './containers/AppContainer';
-// import Index from './pages/App';
-// import Galery from './App/components/Galery';
-// import appContainers from './App/containers/AppContainer';
+import Search from './pages/search/apps/components/search';
 import { BrowserRouter as Router,Route, Switch } from "react-router-dom";
 function App() {
   return (
@@ -27,9 +22,7 @@ function App() {
             <Route path="/contact"  component={Contact}/>
             <Route path="/lainya"  component={Lainya}/>
             <Route path="/api"  component={Api}/>
-            {/* <Route path="/search"  component={Search}/> */}
-            {/* <Route path="/galery"  component={Galery}/> */}
-            {/* <Route path="/appContainers"  component={appContainers}/> */}
+            <Route path="/search"  component={Search}/>
           </Switch>
         <Footer/>
 

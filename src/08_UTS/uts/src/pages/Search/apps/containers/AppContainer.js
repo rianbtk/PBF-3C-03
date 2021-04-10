@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import App from '../components/App';
+import Search from '../components/search';
 
 import { fetchImage } from '../modules/actions';
 
@@ -8,4 +8,5 @@ export default connect(
   (dispatch) => ({
     fetchImage: (keyword) => dispatch(fetchImage(keyword)),
   }),
-)(App);
+)(Search);
+

@@ -4,7 +4,7 @@ import { Container, Row, Col, Card, CardImg } from 'reactstrap';
 import SearchForm from './SearchForm';
 import './App.css';
 
-class App extends Component {
+class Apps extends Component {
   constructor(props) {
     super(props);
 
@@ -22,7 +22,7 @@ class App extends Component {
       <Container>
         <Row>
           <Col>
-            <h1>Image Gallery</h1>
+            <h1>Search</h1>
           </Col>
         </Row>
         <Row>
@@ -47,4 +47,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default Apps;

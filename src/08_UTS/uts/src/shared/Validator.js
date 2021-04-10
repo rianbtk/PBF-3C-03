@@ -29,7 +29,7 @@ class Validator {
     
         }
     
-        if(errorMsg.length == 0){
+        if(errorMsg.length === 0){
     
           return true;
     
