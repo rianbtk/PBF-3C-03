@@ -9,7 +9,7 @@ import {
     VERIFY_SUCCESS,
     REGISTER_REQUEST,
     REGISTER_SUCCESS,
-    REGISTER_FAILURE,
+    REGISTER_FAILURE
 } from "../actions/auth";
 
 export default (
@@ -21,7 +21,6 @@ export default (
         loginError: false,
         logoutError: false,
         registerError: false,
-
         isAuthenticated: false,
         user: {}
     },
