@@ -1,5 +1,10 @@
 # Context dan HOC di ReactJS
 
+## Tujuan Pembelajaran
+
+1. Mahasiswa mengetahui dan memahami konsep redux dalam reactApp
+2. State management dengan context API
+
 ## Context API
 
 1. React.createContext
