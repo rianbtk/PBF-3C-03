@@ -1,5 +1,14 @@
 # Modul 1 Pengantar
 
+## Tujuan Pembelajaran
+
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -8,6 +17,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/01_pengantar/listing.
 
 # Modul 2 Layout
 
+## Tujuan Pembelajaran
+
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -16,7 +34,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/02_layout/02.md
 
 # Modul 3 Konsep React JS
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -24,7 +50,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/03_Konsep_ReactJS/03_
 
 # Modul 4 Konsep React JS B2
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -32,7 +66,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/04_Konsep_ReactJs_Bag
 
 # Modul 5 ReactJs API_ROUTER
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -40,7 +82,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/05_API_dan_Router_di_
 
 # Modul 6 React Redux
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -48,7 +98,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/06_React_Redux/06_Rea
 
 # Modul 7 Contect HOC
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -56,7 +114,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/07_Context_HOC/7_Cont
 
 # Modul 8 UTS
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -64,7 +130,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/08_UTS/08.md
 
 # Modul 9 Global Api Hooks
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -72,7 +146,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/09_global_api_hooks/0
 
 # Modul 10 Firebase React JS
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -80,7 +162,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/10_firebase_reactjs/1
 
 # Modul 11 Redux Thunk
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -88,7 +178,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/11_Redux_Thunk/11.md
 
 # Modul 12 CRUD Firebases
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -96,7 +194,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/12_CRUD_Firebases/12.
 
 # Modul 13 Quasar
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
@@ -104,7 +210,15 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/13_Quasar/13.md
 
 # Modul 14 Quasar Directive Components
 
+## Tujuan Pembelajaran
 
+## Dosen Pengempu
+
+## Materi Yang Diperoleh
+
+## 
+
+### Pernyataan 
 
 
 
