@@ -1,14 +1,20 @@
+# Laporan UAS Pemrograman Berbasis Framework
+
+## Dosen Pengempu
+
+
+
 # Modul 1 Pengantar
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -19,13 +25,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/01_pengantar/listing.
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -36,13 +42,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/02_layout/02.md
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -52,13 +58,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/03_Konsep_ReactJS/03_
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -68,13 +74,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/04_Konsep_ReactJs_Bag
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -84,13 +90,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/05_API_dan_Router_di_
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -100,13 +106,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/06_React_Redux/06_Rea
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -116,13 +122,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/07_Context_HOC/7_Cont
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -132,13 +138,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/08_UTS/08.md
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -148,13 +154,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/09_global_api_hooks/0
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -164,13 +170,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/10_firebase_reactjs/1
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -180,13 +186,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/11_Redux_Thunk/11.md
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -196,13 +202,13 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/12_CRUD_Firebases/12.
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
@@ -212,14 +218,17 @@ Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/13_Quasar/13.md
 
 ## Tujuan Pembelajaran
 
-## Dosen Pengempu
+
 
 ## Materi Yang Diperoleh
 
 ## 
 
-### Pernyataan 
+
 
 
 
 Link : https://github.com/rianbtk/PBF-3D-03/blob/main/docs/14_Quasar_Directives_Components/14.md
+
+
+## Pernyataan
